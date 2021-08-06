@@ -21,6 +21,6 @@ I am a tech entusiast and currently working on to become a software engineer. I 
 ### Github Stats
 
 <p>
-  <img height="191px" src="https://github-readme-stats.vercel.app/api?username=farissatyaw&count_private=true&show_icons=true&theme=radical"/>&nbsp&nbsp
-  <img height="191px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farissatyaw&show_icons=true&theme=radical&layout=compact&hide=css"/>
+  <img width="408px" src="https://github-readme-stats.vercel.app/api?username=farissatyaw&count_private=true&show_icons=true&theme=radical"/>&nbsp&nbsp
+  <img height="162px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farissatyaw&show_icons=true&theme=radical&layout=compact&hide=css"/>
 </p>
