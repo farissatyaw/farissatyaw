@@ -3,7 +3,7 @@
 
 ### About Me
 
-I am a tech entusiast and currently working on to become a software engineer. I have experience becoming both backend and frontend development, also a little bit of project manager. 
+I am a tech entusiast and currently working on to become a software engineer. I have experience in becoming both backend and frontend development, also a little bit of project manager. 
 
  - ⚔️ I'm Currently working on .NET Framework for REST API
  - 👨‍💻 Currently working as a Backend Developer Intern
