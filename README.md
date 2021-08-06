@@ -7,7 +7,7 @@ I am a tech entusiast and currently working on to become a software engineer. I 
 
  - ⚔️ I'm Currently working on .NET Framework for REST API
  - 👨‍💻 Currently working as a Backend Developer Intern
- - 🗺️ Very excited in explore and learn about Cloud Engineering
+ - 🗺️ Very excited in exploring and learning about Cloud Engineering
  - 📝 Available for Freelance Opportunities
 
 
